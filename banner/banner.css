@@ -1,0 +1,18 @@
+header{
+    width: 120rem;
+    margin: auto;
+    height: 8rem;
+    
+    display: flex;
+    align-items: center;
+    padding: 3rem;
+    gap: 100rem;
+}
+header .banner{
+    width: 3rem;
+    height: 3rem;
+}
+header .banner-banner{
+    font-size: 40px;
+    object-fit: cover;
+}

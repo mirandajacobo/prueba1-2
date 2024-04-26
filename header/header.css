@@ -1,0 +1,44 @@
+header{
+    width: 120rem;
+    margin: auto;
+    height: 8rem;
+    background-color: red;
+    border-bottom: 1px solid black;
+
+    display: flex;
+    align-items: center;
+    padding: 3rem;
+    gap: 100rem;
+}
+header .box_img{
+    width: 3rem;
+    height: 3rem;
+}
+header .box_img-img{
+    font-size: 40px;
+    object-fit: cover;
+}
+nav .btn1{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+
+}
+nav .btn2{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+nav .btn3{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+header .banner{
+    width: 3rem;
+    height: 3rem;
+}
+header .banner-banner{
+    font-size: 40px;
+    object-fit: cover;
+}
